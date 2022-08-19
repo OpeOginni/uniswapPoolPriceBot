@@ -13,4 +13,4 @@ To see the price of any pool of your choice, go to the uniswapBot.js file and ch
 
 ## Quickstart
 
-To start the Bot you need to input this command to the Terminal `uniswapBot.js`
+To start the Bot you need to input this command to the Terminal `node uniswapBot.js`

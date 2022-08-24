@@ -14,7 +14,7 @@ const ETHERSCAN_API_KEY = process.env.ETHERSCAN_API_KEY;
 
 const provider = new ethers.providers.JsonRpcProvider(INFURA_URL);
 
-const poolAddress = "0x4e68ccd3e89f51c3074ca5072bbac773960dfa36";
+const poolAddress = "0xcbcdf9626bc03e24f779434178a73a0b4bad62ed";
 
 const quoterAddress = "0xb27308f9F90D607463bb33eA1BeBb41C27CE5AB6";
 
